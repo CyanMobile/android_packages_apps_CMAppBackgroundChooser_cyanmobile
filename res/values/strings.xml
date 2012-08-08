@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="app_name">CyanMobile App background chooser</string>
+    <string name="move_ui">CyanMobile Sucessfully copied file to App background chooser.</string>
+</resources>
